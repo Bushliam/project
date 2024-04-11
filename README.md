@@ -1,4 +1,4 @@
-# project
+# Project
 
 ## Introduction
 
@@ -12,6 +12,7 @@ Users can utilize the provided environment to run this project in the Jupyterlab
 
 The structure of this project is set up to easily locate any information you are searching for.
 
+``` 
 project/
 │
 ├── data/
@@ -19,17 +20,17 @@ project/
 │
 ├── docs/
 │ └── Documents/
-│   ├── weekly-meetings/
-│   └── Report.pdf
+│ ├── weekly-meetings/
+│ └── Report.pdf
 │
 ├── images/
-│ └── dataset-image.png
+│ ├── dataset-image.png
 │ └── predictions.png
 │
 ├── reports/
-│ └── gen-data.py
-│   ├── untitled1.py
-│   └── untitled2.py
+│ ├── gen-data.py
+│ ├── untitled1.py
+│ └── untitled2.py
 │
 ├── src/
 │ └── Report.ipynb
